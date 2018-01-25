@@ -1,5 +1,9 @@
 function johnLennonFacts(facts) {
-  
+  let i = 0;
+  while (count < facts.length) {
+    facts[i]+="!!!";
+    i++;
+  }
 }
 
 function iLoveTheBeatles(num) {
